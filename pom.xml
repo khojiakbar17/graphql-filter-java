@@ -40,7 +40,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <graphql.version>14.0</graphql.version>
+    <graphql.version>11.0</graphql.version>
     <graphql.scalar.version>1.0</graphql.scalar.version>
     <spring.data.version>2.0.9.RELEASE</spring.data.version>
     <jpa.version>2.2</jpa.version>
